@@ -11,6 +11,7 @@ python = "^3.12"
 algoliasearch = "^3.0.0"
 brightway25 = "^1.0.6"
 python-dotenv = "^1.0.1"
+fastapi = "^0.110.1"
 
 
 [build-system]
